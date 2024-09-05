@@ -318,4 +318,4 @@
   - Analyzed an ERD and mapped entities to physical tables, assigning column names and defining keys.
 
 - **Example**:
-  - I mapped a Product entity from the ERD to a physical table with columns like `ProductID`, `Name`, and `Price`,
+  - I mapped a Product entity from the ERD to a physical table with columns like `ProductID`, `Name`, and `Price`, ensuring the design matched real-world requirements.
